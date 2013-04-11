@@ -1,0 +1,13 @@
+/Users/Ni/Desktop/myLibrary/linkList.c: In function 'insert':
+/Users/Ni/Desktop/myLibrary/linkList.c:16: error: 'NULL' undeclared (first use in this function)
+/Users/Ni/Desktop/myLibrary/linkList.c:16: error: (Each undeclared identifier is reported only once
+/Users/Ni/Desktop/myLibrary/linkList.c:16: error: for each function it appears in.)
+/Users/Ni/Desktop/myLibrary/linkList.c:14: warning: unused variable 'tail'
+/Users/Ni/Desktop/myLibrary/linkList.c: In function 'newLinkList':
+/Users/Ni/Desktop/myLibrary/linkList.c:33: warning: implicit declaration of function 'malloc'
+/Users/Ni/Desktop/myLibrary/linkList.c:33: warning: incompatible implicit declaration of built-in function 'malloc'
+/Users/Ni/Desktop/myLibrary/linkList.c:34: error: 'NULL' undeclared (first use in this function)
+/Users/Ni/Desktop/myLibrary/linkList.c: In function 'newNode':
+/Users/Ni/Desktop/myLibrary/linkList.c:41: warning: incompatible implicit declaration of built-in function 'malloc'
+/Users/Ni/Desktop/myLibrary/linkList.c: In function 'delete':
+/Users/Ni/Desktop/myLibrary/linkList.c:57: warning: implicit declaration of function 'free'

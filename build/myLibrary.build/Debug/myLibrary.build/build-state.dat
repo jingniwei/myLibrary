@@ -1,0 +1,132 @@
+TmyLibrary
+v7
+r0
+t387381811.278176
+cCheck dependencies
+cCompileC build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/library.o /Users/Ni/Desktop/myLibrary/library.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Users/Ni/Desktop/myLibrary/book.c
+c000000005166BF390000000000000418
+t1365688121
+s1048
+i"book.h"
+
+N/Users/Ni/Desktop/myLibrary/book.h
+c000000005166C29300000000000001A7
+t1365688979
+s423
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+
+N/Users/Ni/Desktop/myLibrary/build/Debug/libmyLibrary.dylib
+t2
+s0
+
+N/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/book.o
+t2
+s0
+
+N/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/library.i
+t1365688620
+s40959
+
+N/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/library.o
+t1365688997
+s8404
+
+N/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/linkList.o
+t2
+s0
+
+N/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/myLibrary.LinkFileList
+c00000000516619EC0000000000000136
+t1365645804
+s310
+
+N/Users/Ni/Desktop/myLibrary/library.c
+c000000005166C2AB0000000000000BFD
+t1365689003
+s3069
+i"library.h"
+
+N/Users/Ni/Desktop/myLibrary/library.h
+c000000005166C19C000000000000024B
+t1365688732
+s587
+i"linkList.h"
+i"book.h"
+
+N/Users/Ni/Desktop/myLibrary/linkList.c
+c00000000516606E900000000000004E5
+t1365640937
+s1253
+i"linkList.h"
+
+N/Users/Ni/Desktop/myLibrary/linkList.h
+c0000000051661DA00000000000000252
+t1365646752
+s594
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+
+C<C0005:'CompileC library.o':P8:W0>
+s387381420.966937
+e387381421.000414
+r1
+xCompileC
+xbuild/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/library.o
+x/Users/Ni/Desktop/myLibrary/library.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/Ni/Desktop/myLibrary/library.c387381420#387381421#0(0"0(0#0#37"/Users/Ni/Desktop/myLibrary/library.c13229547247239264#1208"    cd /Users/Ni/Desktop/myLibrary    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/myLibrary-generated-files.hmap -I/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/myLibrary-own-target-headers.hmap -I/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/myLibrary-all-target-headers.hmap -iquote /Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/myLibrary-project-headers.hmap -F/Users/Ni/Desktop/myLibrary/build/Debug -I/Users/Ni/Desktop/myLibrary/build/Debug/include -I/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/DerivedSources/x86_64 -I/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/DerivedSources -fpch-preprocess -E /Users/Ni/Desktop/myLibrary/library.c -o /Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/library.i0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies387381811#387381811#0(0"0(0#1#0"8611661792#0"0#
+
+CCompileC build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/book.o /Users/Ni/Desktop/myLibrary/book.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/library.o /Users/Ni/Desktop/myLibrary/library.c normal x86_64 c com.apple.compilers.gcc.4_2
+s387381811.273073
+e387381811.278098
+r1
+xCompileC
+xbuild/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/library.o
+x/Users/Ni/Desktop/myLibrary/library.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/Ni/Desktop/myLibrary/library.c387381811#387381811#0(0"0(0#0#37"/Users/Ni/Desktop/myLibrary/library.c8601114176#1191"    cd /Users/Ni/Desktop/myLibrary    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/myLibrary-generated-files.hmap -I/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/myLibrary-own-target-headers.hmap -I/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/myLibrary-all-target-headers.hmap -iquote /Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/myLibrary-project-headers.hmap -F/Users/Ni/Desktop/myLibrary/build/Debug -I/Users/Ni/Desktop/myLibrary/build/Debug/include -I/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/DerivedSources/x86_64 -I/Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/DerivedSources -c /Users/Ni/Desktop/myLibrary/library.c -o /Users/Ni/Desktop/myLibrary/build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/library.o0#
+
+CCompileC build/myLibrary.build/Debug/myLibrary.build/Objects-normal/x86_64/linkList.o /Users/Ni/Desktop/myLibrary/linkList.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Ni/Desktop/myLibrary/build/Debug/libmyLibrary.dylib normal x86_64
+r0
+

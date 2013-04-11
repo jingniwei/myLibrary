@@ -1,0 +1,8 @@
+/Users/Ni/Desktop/myLibrary/book.c:35: error: conflicting types for 'toString'
+/Users/Ni/Desktop/myLibrary/book.h:24: error: previous declaration of 'toString' was here
+/Users/Ni/Desktop/myLibrary/book.c:54:1: error: unterminated argument list invoking macro "strcat"
+/Users/Ni/Desktop/myLibrary/book.c: In function 'toString':
+/Users/Ni/Desktop/myLibrary/book.c:44: error: expected ';' at end of input
+/Users/Ni/Desktop/myLibrary/book.c:44: error: expected declaration or statement at end of input
+/Users/Ni/Desktop/myLibrary/book.c:44: error: expected declaration or statement at end of input
+/Users/Ni/Desktop/myLibrary/book.c:44: warning: control reaches end of non-void function
